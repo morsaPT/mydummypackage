@@ -1,15 +1,13 @@
 {
-    "name": "morsa/mydummypackage",
-    "description": "This is dummy package to test",
-    "type": "module",
-    "license": "proprietary",
+    "name": "morsapt/mydummypackage",
+    "description": "This is a dummy package",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
-            "name": "lobadevs",
-            "email": "developer@loba.pt"
+            "name": "Mário Rodrigues",
+            "email": "mario@oba.pt"
         }
     ],
-    "version" : "0.0.3",
-    "minimum-stability": "dev",
     "require": {}
 }
