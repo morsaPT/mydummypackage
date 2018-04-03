@@ -1,4 +1,14 @@
 {
-	"name" : "My Dummy Package",
-	"description" : "A simple dummy Package to test SATIS"
+    "name": "morsa/mydummypackage",
+    "description": "This is dummy package to test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mário Rodrigues",
+            "email": "mario@oba.pt"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
